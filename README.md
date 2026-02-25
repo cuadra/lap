@@ -15,7 +15,6 @@ A small command-line lap timer for quick time tracking.
 ```bash
 git clone <your-repo-url>
 cd timetracker
-npm install
 npm link
 ```
 
