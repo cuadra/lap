@@ -2,6 +2,9 @@
 
 A small command-line lap timer for quick time tracking.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/afb40f02-1de1-4649-8a08-a3d3b710b985" />
+
+
 ## Requirements
 
 - Node.js 18+ (or any recent Node.js version)
